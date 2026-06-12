@@ -1,4 +1,4 @@
-<img src="https://github.com/kichkiro/42/blob/assets/banner_cpp_modules.jpg?raw=true" width="100%"/>
+<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/banner_cpp_modules.jpg?raw=true" width="100%"/>
 
 # CPP Modules
 
